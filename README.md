@@ -7,5 +7,5 @@
 
 •	Shaded (black) squares do not touch each other vertically or horizontally.
 
-![ScreenShot](https://github.com/naimishamanikonda/Hitori-puzzle-solver/blob/master/solved.PNG)
+![ScreenShot](https://github.com/naimishamanikonda/Hitori-puzzle-solver/blob/master/solve1.PNG)
 
