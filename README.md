@@ -6,5 +6,6 @@
 •	No number appears in a row or column more than once.
 
 •	Shaded (black) squares do not touch each other vertically or horizontally.
+
 ![ScreenShot](https://github.com/naimishamanikonda/Hitori-puzzle-solver/solve1.JPG)
 
